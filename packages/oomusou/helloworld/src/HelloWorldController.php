@@ -15,6 +15,6 @@ class HelloWorldController extends Controller
     public function index()
     {
         $message = 'Hello World';
-        return view('HelloWorld:welcome', compact('message'));
+        return view('HelloWorld::welcome', compact('message'));
     }
 }
