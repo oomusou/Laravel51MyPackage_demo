@@ -136,6 +136,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        Oomusou\HelloWorld\HelloWorldServiceProvider::class,
 
         /*
          * Application Service Providers...
