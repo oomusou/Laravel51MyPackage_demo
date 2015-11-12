@@ -1,0 +1,10 @@
+{
+    "name": "oomusou/helloworld",
+    "authors": [
+        {
+            "name": "oomusou",
+            "email": "oomusou@gmail.com"
+        }
+    ],
+    "require": {}
+}
